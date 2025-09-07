@@ -6,7 +6,9 @@ Uma aplicação web simples e intuitiva que permite calcular juros compostos com
 Campos de entrada:
 
 Valor Inicial (Capital) — o valor principal a ser investido ou aplicado.
+
 Taxa de Juros (% a.m.) — taxa de juros mensal em formato de percentagem.
+
 Tempo de Rendimento (meses) — número de meses em que o investimento será aplicado.
 
 Visualização instantânea dos resultados:
@@ -26,7 +28,9 @@ Interface minimalista e eficiente: design direto ao ponto, sem distrações, per
 Esta calculadora é ideal para quem deseja:
 
 Simular cenários de investimento e visualizar o efeito dos juros compostos ao longo do tempo;
+
 Aprender ou ensinar o conceito de "juros sobre juros", em que os juros incidem sobre o montante acumulado;
+
 Obter resultados imediatamente, de forma clara e descomplicada.
 
 - Base Matemática
